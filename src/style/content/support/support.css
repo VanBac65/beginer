@@ -1,0 +1,18 @@
+.support {
+    margin-top: 10%;
+    display: flex;
+}
+
+.support .left {
+    width: 50%;
+    text-align: center;
+}
+
+.support .right {
+    width: 40%;
+    margin: auto;
+}
+
+.support .right .title {
+    width: 80%;
+}

@@ -1,0 +1,30 @@
+.trusted {
+    display: flex;
+    flex-direction: column;
+    margin-top: 10%;
+    justify-content: center;
+    width: 100%;
+}
+
+.trusted .title {
+    font-size: 1em;
+    width: max-content;
+    margin: auto;
+}
+
+.trusted .items {
+    margin-top: 2%;
+    width: 100%;
+    display: flex;
+}
+
+.trusted .items ul {
+    width: 100%;
+    display: flex;
+    list-style: none;
+    justify-content: space-around;
+}
+
+.trusted .items ul li {
+    width: max-content;
+}

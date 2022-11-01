@@ -1,0 +1,13 @@
+.building-digital{
+    display: flex;
+    margin-top: 10%;
+}
+
+.building-digital .left {
+    width: 50%;
+}
+
+.building-digital .right {
+    width: 50%;
+    text-align: center;
+}

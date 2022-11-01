@@ -1,0 +1,15 @@
+.branding {
+    display: flex;
+    justify-content: center;
+    margin-top: 10%;
+}
+
+.branding .left {
+    width: 50%;
+    text-align: center;
+}
+
+.branding .right {
+    width: 40%;
+    margin: auto;
+}

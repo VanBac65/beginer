@@ -1,0 +1,15 @@
+.building-digital .title-des{
+    width: 100%;
+}
+
+.building-digital .title{
+    width: 80%;
+    font-size: 4em;
+}
+
+.building-digital .des{
+    width: 80%;
+    font-size: 1.4em;
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
